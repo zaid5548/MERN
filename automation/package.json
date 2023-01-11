@@ -1,0 +1,23 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaid5548/JS.git"
+  },
+  "author": "Zaid Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaid5548/JS/issues"
+  },
+  "homepage": "https://github.com/zaid5548/JS#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  }
+}
