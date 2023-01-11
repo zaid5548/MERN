@@ -7,7 +7,7 @@ console.log(pendingPromise);
 
 //success callback
 pendingPromise.then(function(data){
-    console.log(data);
+    console.log("content "+data);
 });
 
 //Failed callback
