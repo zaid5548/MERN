@@ -5,7 +5,7 @@ let fs=require("fs");
 let f1Promise=fs.promises.readFile("./f1.text");
 
 
-
+//Promise hell => chaining
 //success callback
 f1Promise.then(function(data){
     console.log("content "+data);
